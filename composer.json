@@ -1,0 +1,22 @@
+{
+    "name": "potter/container-aware-interface",
+    "description": "PHP Container Aware Interface",
+    "type": "library",
+    "require": {
+        "php": "^8.3",
+        "psr/container": "^2.0@dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Container\\Aware\\": "src/Potter/Container/Aware/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
