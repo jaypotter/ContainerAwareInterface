@@ -9,7 +9,7 @@ Provides:
  * Potter\Container\Aware\AbstractContainerAware
 
 Requires:
- * [Psr\Container](https://github.com/php-fig/container)
+ * [psr/container](https://github.com/php-fig/container)
 
 Suggests:
  * [potter/container-aware](https://github.com/jaypotter/ContainerAware)
