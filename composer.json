@@ -1,6 +1,6 @@
 {
     "name": "potter/container-aware-interface",
-    "description": "PHP Container Aware Interface",
+    "description": "PHP Aware Interface for PSR-11 Containers",
     "type": "library",
     "require": {
         "php": "^8.3",
@@ -27,5 +27,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
